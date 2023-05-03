@@ -8,3 +8,6 @@ Please [create an issue](https://github.com/sdruskat/software-authorship/issues)
 ## Resources
 
 Following is a list of resources we have used to develop the contents on this repository:
+
+## Code of Conduct
+Please follow the CW23 [code of conduct](https://software.ac.uk/cw23/participation-guidelines#code-of-conduct) when contributing to this repository
