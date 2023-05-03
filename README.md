@@ -1,4 +1,4 @@
-# software-authorship
+# Software Authorship
 Repository for collaboration on software authorship definition and contribution roles aggregation
 
 ## How to contribute to this repository?
