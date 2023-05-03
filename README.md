@@ -3,7 +3,7 @@ Repository for collaboration on software authorship definition and contribution 
 
 ## How to contribute to this repository?
 
-Please create an issue if you have ideas to contribute to this repository.
+Please [create an issue](https://github.com/sdruskat/software-authorship/issues) if you have ideas to contribute to this repository.
 
 ## Resources
 
