@@ -62,7 +62,7 @@ Those who do not meet one of the four criteria due to the insubstantiality of th
 should be acknowledged as contributors (see below).
 These authorship criteria are intended to reserve the status of authorship for those who deserve credit.
 
-The responsibility for identifying who meets the authorship criteria lies is part of the governance of the software project.
+The responsibility for identifying who meets the authorship criteria lies is part of the governance of the software project, which may choose to recognize authorship beyond the SORTÆD criteria.
 
 If agreement cannot be reached about who qualifies for authorship, 
 the legal owners of the software should be asked to investigate.     
