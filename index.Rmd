@@ -1,11 +1,11 @@
 ---
-title: "Software Authorship"
-image: "<placeholder-miro-image.jpg>"
+title: "SORTÆD: Software Role Taxonomy and Authorship Definition"
+image: "<placeholder-miro-image-or-logo.jpg>"
 links:
-  - label: Our GitHub Repository
-    url: "https://github.com/"
+  - label: GitHub Repository
+    url: "https://github.com/sdruskat/software-authorship"
 output:
-  postcards::trestles 
+  postcards::trestles
 ---
  
 <!--
