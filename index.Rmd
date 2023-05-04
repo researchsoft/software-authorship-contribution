@@ -68,7 +68,11 @@ the legal owners of the software should be asked to investigate.
 ### Non-author contributors
 
 Contributions to software can be made in different roles.
-Depending on the type of the contribution, contributors can be eligible for authorship if the contribution is substantial.
+Depending on the type of the contribution, contributors can be eligible for authorship if the contribution is substantial (see above).
+
+Contributors who do not meet the above criteria for authorship should not be listed as authors, 
+but they should be acknowledged. 
+The roles that constitute contributorship are detailed in the following. 
 
 ### Software contributor role taxonomy
 
