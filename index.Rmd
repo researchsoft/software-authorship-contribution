@@ -30,15 +30,15 @@ The new guidelines will define:
 This activity focuses on authorship of software (“the software itself”). It does not discuss specifics of authorship for related outputs (software papers, papers about software, etc.).
 -->
 
-# Software authorship
+## Software authorship
 
-# Roles in software
+## Roles in software
 
-# Guidelines for software projects
+## Guidelines for software projects
 <!--
 This section provides guidance for software projects looking to understand how to acknowledge authorship and contributors to their project
 -->
-## What do you need to do as a project?
+### What do you need to do as a project?
 
 As a research software project, it's useful to be clear and transparent who the authors of your software are, acknowledge contributors, and describe how decisions around authorship are made. 
 
@@ -50,22 +50,22 @@ An appropriate place to put this information is in a contribution section in you
 
 
 
-## Frequently Asked Questions
+### Frequently Asked Questions
 
-## Examples of use
+### Examples of use
 
-# How to get involved in SORTÆD
+## How to get involved in SORTÆD?
 
-## How to contribute?
+### How to contribute?
 
 If you would like to contribute to this project, please [open an issue](https://github.com/sdruskat/software-authorship/issues) and get in touch with us.
 
-## How to become an author on this project? / How to stop being an author on this project?
+### How to become an author on this project? / How to stop being an author on this project?
 
 To become an author on this project, please open an issue with a brief description of what you want to work on and we can discuss it. 
 
 To stop being an author on this project, ...
 
-## How to cite this project?
+### How to cite this project?
 
 Use ... to cite this project
