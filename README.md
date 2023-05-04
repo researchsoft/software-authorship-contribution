@@ -21,8 +21,7 @@ The new guidelines will define:
 - Who is a non-author contributor,
     - including example roles of contributors (eg raising bug issues, fixing typos)
     - including guidelines for how to identify when an contributor has transitioned to author, and when an author stops being an author
-- When and how authors and contributors should be credited,
-    - and how the roles may be mapped to authorship and contributorship of related outputs (such as software papers, papers about the software, etc.).
+- When and how authors and contributors should be credited
 
 This activity focuses on authorship of software (“the software itself”). It does not discuss specifics of authorship for related outputs (software papers, papers about software, etc.).
 
