@@ -5,7 +5,7 @@ links:
   - label: GitHub Repository
     url: "https://github.com/sdruskat/software-authorship"
 output:
-  postcards::trestles
+  postcards::solana    # trestles
 ---
  
 <!--
