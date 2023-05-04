@@ -43,7 +43,7 @@ This activity focuses on authorship of software (“the software itself”). It 
 
 ### Contributors
 
-We acknowledge the contributions of Carlos Martinex
+We acknowledge the contributions of Carlos Martinez.
 
 ## How to contribute to this repository?
 
