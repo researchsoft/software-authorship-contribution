@@ -37,9 +37,7 @@ Contents:
 - [Guidelines for software projects](#guidelines)
 - [How to get involved in SORTÆD?](#get-involved)
 
-## Roles in software {#roles}
-
-![Roles in Software](roles.png){width=90%}
+![Flow of resource contributions](flow.png){width=90%}
 
 ## Software authorship {#authorship}
 
@@ -113,6 +111,10 @@ Supervision
  Conceptualisation
  : _Formulation of the idea and goals of the software, design of main features and functionalities_
  : Examples: Principal Investigator, Architect, graphical designer, release manager, requirement gathering
+
+### Roles in software {#roles}
+
+![Roles in Software](roles.png){width=90%}
 
 ## Guidelines for software projects {#guidelines}
 <!--
