@@ -34,7 +34,6 @@ This activity focuses on authorship of software (“the software itself”). It 
 
 # Roles in software
 
-
 # Guidelines for software projects
 <!--
 This section provides guidance for software projects looking to understand how to acknowledge authorship and contributors to their project
@@ -48,6 +47,7 @@ As a research software project, it's useful to be clear and transparent who the 
 - Governance: the way the project decides who is an author and who is a contributor should be transparently and publicly documented.
 
 An appropriate place to put this information is in a contribution section in your README or a separate CONTRIBUTING file. There are good existing guidelines for how to structure a project README and CONTRIBUTING file.
+
 
 
 ## Frequently Asked Questions
