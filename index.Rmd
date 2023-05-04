@@ -30,13 +30,14 @@ The new guidelines will define:
 This activity focuses on authorship of software (“the software itself”). It does not discuss specifics of authorship for related outputs (software papers, papers about software, etc.).
 -->
 
-## Software authorship
+Contents:
 
-List of sections:
-
+- [Software authorship](#authorship)
 - [Roles in Software](#roles)
 - [Guidelines for software projects](#guidelines)
 - [How to get involved in SORTÆD?](#get-involved)
+
+## Software authorship {#authorship}
 
 ## Roles in software {#roles}
 
