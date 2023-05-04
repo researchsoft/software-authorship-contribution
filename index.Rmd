@@ -41,6 +41,8 @@ Contents:
 
 ## Roles in software {#roles}
 
+![Roles in Software](roles.png){width=90%}
+
 ### Who is an author?
 
 SORTÆD recommends that software authorship be based on substantial contributions to:
