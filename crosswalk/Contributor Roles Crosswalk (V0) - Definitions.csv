@@ -1,0 +1,11 @@
+Category,Task,Definition,Example of roles
+,Supervision,"Coordinates the project effort, possibly across organizational boundaries","Coordinator, project manager, advisor, team leader"
+,Resources,"Provision and maintenance of resources used and exposed by the software project, like computational infrastructure, cloud systems...","System administrator, cloud manager"
+,Funding,Acquisition or management of funding for effort and events that sustain the software,"Principal Investigator, work package leader"
+,Outreach,Communication with end-users and stakeholders,"Training, community manager, user support"
+,Development,"Writing of the backend and frontend code as well as managing dependencies, making the software ready for release","Programmer, maintainer, UX designer, release manager"
+,Data curation,Integration of data in the software and ensures metadata is annotated and available,"Data provider, statician, data manager"
+,Testing,"Unit test, usability, integration tests, release test","Reviewer, reporting user"
+,Documentation,"Writing of all documentation related to the software, including user guidelines, roadmapping...","Technical writer, metadata curator"
+,Conceptualisation,"Formulation of the idea and goals of the software, design of main features and functionalities","Principal Investigator, Architect, graphical designer, release manager, requirement gathering"
+,(not mapped),,
