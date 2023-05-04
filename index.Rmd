@@ -66,6 +66,11 @@ An appropriate place to put this information is in a contribution section in you
 
 ### Frequently Asked Questions {#faq}
 
+1. _What is the difference between a contributor and an author?_ A **contributor** is someone who has made a useful contribution to the project, through one or more of the different [contributor roles](#contributorroles). An **author** is someone who has made a more significant contribution to the project, as defined by the [authorship criteria](#authorshipcriteria).
+2. _When does a contributor become an author?_ A contributor becomes an author, when the people involved in the project governance have decided they meet the criteria.
+3. _When does an author stop being an author?_ Generally, authorship is removed when the persons contributions to the current version of the software project are no longer meeting the criteria for authhorship. This may be because the code they have written is no longer included in the release.
+4. _Who should I include as an author?_ This will be different for each project, however we recommend the people involved in the governance of the project use the [authorship criteria](#authorshipcriteria) and comes up with a set of questions that can be used to assess the significance of someone's contributions. These may not just be contributions of lines of code, but the many other [roles](#contributorroles) that are important in the development of research software.
+
 ### Examples of use {#examples}
 
 ## How to get involved in SORTÆD? {#get-involved}
