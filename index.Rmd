@@ -150,7 +150,7 @@ Some useful references:
 - [MARC relator codes](https://www.loc.gov/marc/relators/relaterm.html)
 - [ROpenSci guidance](https://devguide.ropensci.org/collaboration.html?q=ctb#attributions)
 - [SCoRO ontology](https://sparontologies.github.io/scoro/current/scoro.html)
-- [Policy on acknowledging the contribution of LLM/AI](https://poldrack.github.io/talks-AIAssistedCoding/talk/talk.html#/title-slide also [this](https://poldrack.github.io/talks-AIAssistedCoding/talk/talk.html#/section-10) and [this](https://psyarxiv.com/b58ex)
+- [Policy on acknowledging the contribution of LLM/AI](https://poldrack.github.io/talks-AIAssistedCoding/talk/talk.html#/title-slide) also [this](https://poldrack.github.io/talks-AIAssistedCoding/talk/talk.html#/section-10) and [this](https://psyarxiv.com/b58ex)
 
 ## How to get involved in SORTÆD? {#get-involved}
 
