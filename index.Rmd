@@ -55,6 +55,11 @@ In contrast to authorship of textual research outputs:
     
 ### Non-author contributors
 
+Contributions to software can be made under different roles.
+Depending on the type of the contribution, contributors can be eligible for authorship if the 
+
+### Software contributor role taxonomy
+
 ## Guidelines for software projects {#guidelines}
 <!--
 This section provides guidance for software projects looking to understand how to acknowledge authorship and contributors to their project
