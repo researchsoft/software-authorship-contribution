@@ -4,6 +4,8 @@
 
 Repository for collaboration on software authorship definition and contribution roles aggregation
 
+Website: https://sdruskat.net/software-authorship/
+
 ## How to contribute to this repository?
 
 Please [create an issue](https://github.com/sdruskat/software-authorship/issues) if you have ideas to contribute to this repository.
