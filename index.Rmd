@@ -52,11 +52,22 @@ In contrast to authorship of textual research outputs:
 
 - software authorship is NOT based on approval of software versions to be released or published;
 - software authorship is NOT based on agreeing to be accountable for contributions to the software beyond legal accountability, in ensuring that questions related to the quality and integrity of the software are appropriately investigated and resolved.
+
+All those designated as authors should meet one of the three criteria for authorship, 
+and all who meet one of the three criteria should be identified as authors.
+Those who do not meet one of the four criteria due to the insubstantiality of their contribution
+should be acknowledged as contributors (see below).
+These authorship criteria are intended to reserve the status of authorship for those who deserve credit.
+
+The responsibility for identifying who meets the authorship criteria lies is part of the governance of the software project.
+
+If agreement cannot be reached about who qualifies for authorship, 
+the legal owners of the software should be asked to investigate. 
     
 ### Non-author contributors
 
-Contributions to software can be made under different roles.
-Depending on the type of the contribution, contributors can be eligible for authorship if the 
+Contributions to software can be made in different roles.
+Depending on the type of the contribution, contributors can be eligible for authorship if the contribution is substantial.
 
 ### Software contributor role taxonomy
 
