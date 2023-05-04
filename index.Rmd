@@ -34,6 +34,16 @@ This activity focuses on authorship of software (“the software itself”). It 
 
 # Roles in software
 
+## Who is an author?
+
+SORTÆD recommends that software authorship be based on substantial contributions to:
+
+1. the conceptualization of the software; OR
+2. the source code, documentation and metadata, test code, setup or build configuration of the software; OR
+3. safeguarding the continued existence or sustainability of the software project; OR <!-- E.g., project manager, community manager -->
+
+## Non-author contributors
+
 # Guidelines for software projects
 
 # How to get involved in SORTÆD
