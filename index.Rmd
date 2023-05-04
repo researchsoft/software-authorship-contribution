@@ -34,9 +34,21 @@ This activity focuses on authorship of software (“the software itself”). It 
 
 # Roles in software
 
-# Guidelines for software projects
 
+# Guidelines for software projects
+<!--
+This section provides guidance for software projects looking to understand how to acknowledge authorship and contributors to their project
+-->
 ## What do you need to do as a project?
+
+As a research software project, it's useful to be clear and transparent who the authors of your software are, acknowledge contributors, and describe how decisions around authorship are made. 
+
+- Authorship: the list of authors should be clearly stated, and ideally made available in a machine readable form as well (e.g. using CodeMeta). A preferred citation for the software project (e.g. in a CFF file) should be included to make it easy to give credit to the authors.  
+- Contributors: people who have made useful contributions to a project should be acknowledged in documentation, and ideally in project metadata (e.g. in the DOI metadata or in a CodeMeta file).
+- Governance: the way the project decides who is an author and who is a contributor should be transparently and publicly documented.
+
+An appropriate place to put this information is in a contribution section in your README or a separate CONTRIBUTING file. There are good existing guidelines for how to structure a project README and CONTRIBUTING file.
+
 
 ## Frequently Asked Questions
 
