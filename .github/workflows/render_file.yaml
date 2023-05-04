@@ -3,6 +3,8 @@
 on:
   push:
     paths: 'index.Rmd'
+  pull_request:
+    paths: 'index.Rmd'
 
 name: render-rmarkdown
 jobs:
