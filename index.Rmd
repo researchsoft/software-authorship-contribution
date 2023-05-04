@@ -36,4 +36,10 @@ This activity focuses on authorship of software (“the software itself”). It 
 
 # Guidelines for software projects
 
+## What do you need to do as a project?
+
+## Frequently Asked Questions
+
+## Examples of use
+
 # How to get involved in SORTÆD
