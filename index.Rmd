@@ -32,13 +32,29 @@ This activity focuses on authorship of software (“the software itself”). It 
 
 ## Software authorship
 
-## Roles in software
+List of sections:
 
-## Guidelines for software projects
+- [Roles in Software](#roles)
+- [Guidelines for software projects](#guidelines)
+- [How to get involved in SORTÆD?](#get-involved)
+
+## Roles in software {#roles}
+
+### Who is an author?
+
+SORTÆD recommends that software authorship be based on substantial contributions to:
+
+1. the conceptualization of the software; OR
+2. the source code, documentation and metadata, test code, setup or build configuration of the software; OR
+3. safeguarding the continued existence or sustainability of the software project; OR <!-- E.g., project manager, community manager -->
+
+### Non-author contributors
+
+## Guidelines for software projects {#guidelines}
 <!--
 This section provides guidance for software projects looking to understand how to acknowledge authorship and contributors to their project
 -->
-### What do you need to do as a project?
+### What do you need to do as a project? {#need}
 
 As a research software project, it's useful to be clear and transparent who the authors of your software are, acknowledge contributors, and describe how decisions around authorship are made. 
 
@@ -48,29 +64,27 @@ As a research software project, it's useful to be clear and transparent who the 
 
 An appropriate place to put this information is in a contribution section in your README or a separate CONTRIBUTING file. There are good existing guidelines for how to structure a project README and CONTRIBUTING file.
 
-
-
-### Frequently Asked Questions
+### Frequently Asked Questions {#faq}
 
 1. _What is the difference between a contributor and an author?_ A **contributor** is someone who has made a useful contribution to the project, through one or more of the different [contributor roles](#contributorroles). An **author** is someone who has made a more significant contribution to the project, as defined by the [authorship criteria](#authorshipcriteria).
 2. _When does a contributor become an author?_ A contributor becomes an author, when the people involved in the project governance have decided they meet the criteria.
 3. _When does an author stop being an author?_ Generally, authorship is removed when the persons contributions to the current version of the software project are no longer meeting the criteria for authhorship. This may be because the code they have written is no longer included in the release.
 4. _Who should I include as an author?_ This will be different for each project, however we recommend the people involved in the governance of the project use the [authorship criteria](#authorshipcriteria) and comes up with a set of questions that can be used to assess the significance of someone's contributions. These may not just be contributions of lines of code, but the many other [roles](#contributorroles) that are important in the development of research software.
 
-### Examples of use
+### Examples of use {#examples}
 
-## How to get involved in SORTÆD?
+## How to get involved in SORTÆD? {#get-involved}
 
-### How to contribute?
+### How to contribute? {#contribute}
 
 If you would like to contribute to this project, please [open an issue](https://github.com/sdruskat/software-authorship/issues) and get in touch with us.
 
-### How to become an author on this project? / How to stop being an author on this project?
+### How to become an author on this project? / How to stop being an author on this project? {#author}
 
 To become an author on this project, please open an issue with a brief description of what you want to work on and we can discuss it. 
 
 To stop being an author on this project, ...
 
-### How to cite this project?
+### How to cite this project? {#cite}
 
 Use ... to cite this project
