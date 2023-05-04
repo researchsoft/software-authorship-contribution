@@ -1,11 +1,11 @@
 ---
-title: "Software Authorship"
-image: "<placeholder-miro-image.jpg>"
+title: "SORTÆD: Software Role Taxonomy and Authorship Definition"
+image: "<placeholder-miro-image-or-logo.jpg>"
 links:
-  - label: Our GitHub Repository
-    url: "https://github.com/"
+  - label: GitHub Repository
+    url: "https://github.com/sdruskat/software-authorship"
 output:
-  postcards::trestles 
+  postcards::solana    # trestles
 ---
  
 <!--
@@ -30,11 +30,11 @@ The new guidelines will define:
 This activity focuses on authorship of software (“the software itself”). It does not discuss specifics of authorship for related outputs (software papers, papers about software, etc.).
 -->
 
-# Software authorship
+## Software authorship
 
-# Roles in software
+## Roles in software
 
-## Who is an author?
+### Who is an author?
 
 SORTÆD recommends that software authorship be based on substantial contributions to:
 
@@ -42,8 +42,40 @@ SORTÆD recommends that software authorship be based on substantial contribution
 2. the source code, documentation and metadata, test code, setup or build configuration of the software; OR
 3. safeguarding the continued existence or sustainability of the software project; OR <!-- E.g., project manager, community manager -->
 
-## Non-author contributors
+### Non-author contributors
 
-# Guidelines for software projects
+## Guidelines for software projects
+<!--
+This section provides guidance for software projects looking to understand how to acknowledge authorship and contributors to their project
+-->
+### What do you need to do as a project?
 
-# How to get involved in SORTÆD
+As a research software project, it's useful to be clear and transparent who the authors of your software are, acknowledge contributors, and describe how decisions around authorship are made. 
+
+- Authorship: the list of authors should be clearly stated, and ideally made available in a machine readable form as well (e.g. using CodeMeta). A preferred citation for the software project (e.g. in a CFF file) should be included to make it easy to give credit to the authors.  
+- Contributors: people who have made useful contributions to a project should be acknowledged in documentation, and ideally in project metadata (e.g. in the DOI metadata or in a CodeMeta file).
+- Governance: the way the project decides who is an author and who is a contributor should be transparently and publicly documented.
+
+An appropriate place to put this information is in a contribution section in your README or a separate CONTRIBUTING file. There are good existing guidelines for how to structure a project README and CONTRIBUTING file.
+
+
+
+### Frequently Asked Questions
+
+### Examples of use
+
+## How to get involved in SORTÆD?
+
+### How to contribute?
+
+If you would like to contribute to this project, please [open an issue](https://github.com/sdruskat/software-authorship/issues) and get in touch with us.
+
+### How to become an author on this project? / How to stop being an author on this project?
+
+To become an author on this project, please open an issue with a brief description of what you want to work on and we can discuss it. 
+
+To stop being an author on this project, ...
+
+### How to cite this project?
+
+Use ... to cite this project
