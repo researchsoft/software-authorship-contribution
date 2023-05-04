@@ -32,16 +32,16 @@ This activity focuses on authorship of software (“the software itself”). It 
 
 Contents:
 
-- [Software authorship](#authorship)
 - [Roles in Software](#roles)
+- [Software authorship](#authorship)
 - [Guidelines for software projects](#guidelines)
 - [How to get involved in SORTÆD?](#get-involved)
-
-## Software authorship {#authorship}
 
 ## Roles in software {#roles}
 
 ![Roles in Software](roles.png){width=90%}
+
+## Software authorship {#authorship}
 
 ### Who is an author?
 
@@ -87,7 +87,7 @@ Supervision
  : Examples: System administrator, cloud manager
 
  Funding
- : _Acquisition or management of funding for effort and events that sustain the software_
+ : _Acquisition or management of funding for effort and events that sustain the software
  : Examples: Principal Investigator, work package leader
 
  Outreach
