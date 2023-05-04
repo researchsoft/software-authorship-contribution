@@ -25,6 +25,21 @@ The new guidelines will define:
 
 This activity focuses on authorship of software (“the software itself”). It does not discuss specifics of authorship for related outputs (software papers, papers about software, etc.).
 
+### Authors
+
+- Deborah Leem, University Coillege London, https://orcid.org/0000-0002-5836-0899
+- Sherman Lo, Queen Mary, University of London, https://orcid.org/0000-0001-8118-6879
+- Gemma Turon, Ersilia Open Source Initiative, https://orcid.org/0000-0001-6798-0275
+- Neil Chue Hong, University of Edinburgh, https://orcid.org/0000-0002-8876-7606
+- Saranjeet Kaur Bhogal, Research Software Alliance, https://orcid.org/0000-0002-7038-1457
+- Hugo Gruson, data.org,  https://orcid.org/0000-0002-4094-1476
+- Stephan Druskat, German Aerospace Center (DLR), https://orcid.org/0000-0003-4925-7248
+- Stian Soiland-Reyes, University of Manchester, https://orcid.org/0000-0001-9842-9718
+
+### Contributors
+
+We acknowledge the contributions of Carlos Martinex
+
 ## Outputs
 
 1. A draft for a definition of authorship for research software. This draft will be proposed to the community to refine it and gain support from relevant stakeholders (such as [FORCE11](https://force11.org/) and [ReSA](https://www.researchsoft.org/)).
