@@ -40,8 +40,13 @@ SORTÆD recommends that software authorship be based on substantial contribution
 
 1. the conceptualization of the software; OR
 2. the source code, documentation and metadata, test code, setup or build configuration of the software; OR
-3. safeguarding the continued existence or sustainability of the software project; OR <!-- E.g., project manager, community manager -->
+3. maintaining the software or safeguarding the continued existence or sustainability of the software project.<!-- E.g., project manager, governance, community manager -->
 
+In contrast to authorship of textual research outputs: 
+
+- software authorship is NOT based on approval of software versions to be released or published;
+- software authorship is NOT based on agreeing to be accountable for contributions to the software beyond legal accountability, in ensuring that questions related to the quality and integrity of the software are appropriately investigated and resolved.
+    
 ### Non-author contributors
 
 ## Guidelines for software projects
