@@ -32,7 +32,13 @@ This activity focuses on authorship of software (“the software itself”). It 
 
 ## Software authorship
 
-## Roles in software
+List of sections:
+
+- [Roles in Software](#roles)
+- [Guidelines for software projects](#guidelines)
+- [How to get involved in SORTÆD?](#get-involved)
+
+## Roles in software {#roles}
 
 ### Who is an author?
 
@@ -44,11 +50,11 @@ SORTÆD recommends that software authorship be based on substantial contribution
 
 ### Non-author contributors
 
-## Guidelines for software projects
+## Guidelines for software projects {#guidelines}
 <!--
 This section provides guidance for software projects looking to understand how to acknowledge authorship and contributors to their project
 -->
-### What do you need to do as a project?
+### What do you need to do as a project? {#need}
 
 As a research software project, it's useful to be clear and transparent who the authors of your software are, acknowledge contributors, and describe how decisions around authorship are made. 
 
@@ -58,24 +64,22 @@ As a research software project, it's useful to be clear and transparent who the 
 
 An appropriate place to put this information is in a contribution section in your README or a separate CONTRIBUTING file. There are good existing guidelines for how to structure a project README and CONTRIBUTING file.
 
+### Frequently Asked Questions {#faq}
 
+### Examples of use {#examples}
 
-### Frequently Asked Questions
+## How to get involved in SORTÆD? {#get-involved}
 
-### Examples of use
-
-## How to get involved in SORTÆD?
-
-### How to contribute?
+### How to contribute? {#contribute}
 
 If you would like to contribute to this project, please [open an issue](https://github.com/sdruskat/software-authorship/issues) and get in touch with us.
 
-### How to become an author on this project? / How to stop being an author on this project?
+### How to become an author on this project? / How to stop being an author on this project? {#author}
 
 To become an author on this project, please open an issue with a brief description of what you want to work on and we can discuss it. 
 
 To stop being an author on this project, ...
 
-### How to cite this project?
+### How to cite this project? {#cite}
 
 Use ... to cite this project
