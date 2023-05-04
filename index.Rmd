@@ -78,6 +78,42 @@ The roles that constitute contributorship are detailed in the following.
 
 ### Software contributor role taxonomy
 
+Supervision
+ : _Coordinates the project effort, possibly across organizational boundaries_
+ : Examples: Coordinator, project manager, advisor, team leader
+
+ Resources
+ : _Provision and maintenance of resources used and exposed by the software project, like computational infrastructure and cloud systems_
+ : Examples: System administrator, cloud manager
+
+ Funding
+ : _Acquisition or management of funding for effort and events that sustain the software)
+ : Examples: Principal Investigator, work package leader
+
+ Outreach
+ : _Communication with end-users and stakeholders_
+ : Examples: Training, community manager, user support
+
+ Development
+ : _Writing of the backend and frontend code as well as managing dependencies, making the software ready for release_
+ : Examples: Programmer, maintainer, UX designer, release manager
+
+ Data curation
+ : _Integration of data in the software and ensures metadata is annotated and available_
+ : Examples: Data provider, statician, data manager
+
+ Testing
+ : _Unit test, usability, integration tests, release test_
+ : Examples: Reviewer, reporting user
+
+ Documentation
+ : _Writing of all documentation related to the software, including user guidelines, roadmapping_
+ : Examples: Technical writer, metadata curator
+
+ Conceptualisation
+ : _Formulation of the idea and goals of the software, design of main features and functionalities_
+ : Examples: Principal Investigator, Architect, graphical designer, release manager, requirement gathering
+
 ## Guidelines for software projects {#guidelines}
 <!--
 This section provides guidance for software projects looking to understand how to acknowledge authorship and contributors to their project
