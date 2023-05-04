@@ -63,3 +63,7 @@ Following is a list of resources we have used to develop the contents on this re
 ## Code of Conduct
 
 We are following the Collaborations Workshop 2023 [code of conduct](https://software.ac.uk/cw23/participation-guidelines#code-of-conduct) for this project.
+
+## Cite this project
+
+Leem, Deborah, Turon, Gemma, Gruson, Hugo, Chue Hong, Neil, Kaur Bhogal, Saranjeet, Lo, Sherman, Druskat, Stephan, & Soiland-Reyes, Stian. (2023). SORTÆD: Software Role Taxonomy and Authorship Definition. Zenodo. https://doi.org/10.5281/zenodo.7896455
