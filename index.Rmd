@@ -87,7 +87,7 @@ Supervision
  : Examples: System administrator, cloud manager
 
  Funding
- : _Acquisition or management of funding for effort and events that sustain the software)
+ : _Acquisition or management of funding for effort and events that sustain the software
  : Examples: Principal Investigator, work package leader
 
  Outreach
