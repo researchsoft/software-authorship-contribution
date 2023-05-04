@@ -43,3 +43,17 @@ This activity focuses on authorship of software (“the software itself”). It 
 ## Examples of use
 
 # How to get involved in SORTÆD
+
+## How to contribute?
+
+If you would like to contribute to this project, please [open an issue](https://github.com/sdruskat/software-authorship/issues) and get in touch with us.
+
+## How to become an author on this project? / How to stop being an author on this project?
+
+To become an author on this project, please open an issue with a brief description of what you want to work on and we can discuss it. 
+
+To stop being an author on this project, ...
+
+## How to cite this project?
+
+Use ... to cite this project
