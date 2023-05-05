@@ -1,0 +1,214 @@
+SORTÆD (primary),Concept
+(not mapped),archivist
+Development,author
+Conceptualisation,background and literature search
+Development,co-author
+Development,code review
+Conceptualisation,collection
+Outreach,communication
+Outreach,community engagement
+Development,computer programming
+(not mapped),conservator
+Outreach,contact person
+Testing,contributor
+,contributorship
+Supervision,coordination
+Data curation,curator
+Data curation,data
+Data curation,Data Acquisition
+Data curation,data aggregation
+Data curation,data collection
+,
+,data entry
+Conceptualisation,data integration
+Conceptualisation,data modeling
+,Data Processing Disclosure Control
+,data quality assurance
+Development,data standards developer
+Data curation,
+Data curation,data transformation
+Data curation,data validation
+Resources,database administrator
+Resources,device development
+(not mapped),digital preservation
+Documentation,documentation
+Documentation,editor
+Outreach,educational
+Outreach,educational instruction
+Outreach,educational material development
+Outreach,educational program development
+Outreach,educational training
+Resources,equipment technician
+Testing,evaluation
+Development,figure development
+Funding,Funding Or Sponsorship Acquisition
+Funding,Funding Provision
+Development,graphic design
+Resources,guideline development
+Resources,hardware systems
+Resources,hosting institution
+Development,information technology systems
+Resources,infrastructure
+Resources,instrumentation
+(not mapped),intellectual property
+Development,IT hardware systems design and implementation
+Documentation,lay synthesis of research output
+Outreach,marketing
+Documentation,metadata application
+,
+Outreach,networking facilitation
+Documentation,original draft preparation
+Outreach,outreach materials development
+Supervision,owner
+Outreach,participant recruitment
+Supervision,policy development
+(not mapped),preservation
+Funding,principal investigator
+(not mapped),producer
+Supervision,program administration
+Supervision,project management
+Development,project member
+Development,protocol creation
+(not mapped),publisher
+Resources,registration agency
+Resources,registration authority
+Supervision,regulatory administration
+(not mapped),related person
+(not mapped),relationship
+Conceptualisation,requirements analysis
+Conceptualisation,research conceptualization
+Resources,resources
+Funding,rights holder
+Funding,Rights Management
+Development,software architecture
+Development,software design
+Documentation,software documentation
+Development,software engineering
+Development,software systems
+Testing,software testing
+Funding,sponsor
+Documentation,standard operating procedure development
+Documentation,standards development
+Data curation,statistical analysis
+Conceptualisation,study design
+Supervision,supervisory
+Outreach,survey and questionnaire
+Resources,system administrator
+Resources,systems administration
+Supervision,team management
+Documentation,technical writing
+Resources,technician
+Conceptualisation,technique development
+Development,translator
+Testing,user
+Testing,validation
+Documentation,website development
+Documentation,website maintenance
+Supervision,work package leader
+SORTÆD (secondary),Concept
+Development,archivist
+Documentation,author
+,background and literature search
+Documentation,co-author
+Testing,code review
+,collection
+Supervision,communication
+Supervision,community engagement
+,computer programming
+Development,conservator
+,contact person
+,contributor
+,contributorship
+,coordination
+,curator
+,data
+,Data Acquisition
+,data aggregation
+,data collection
+,
+,data entry
+,data integration
+,data modeling
+,Data Processing Disclosure Control
+,data quality assurance
+Conceptualisation,data standards developer
+,
+,data transformation
+,data validation
+,database administrator
+,device development
+,digital preservation
+,documentation
+,editor
+,educational
+,educational instruction
+Documentation,educational material development
+Supervision,educational program development
+,educational training
+,equipment technician
+,evaluation
+,figure development
+,Funding Or Sponsorship Acquisition
+,Funding Provision
+,graphic design
+,guideline development
+,hardware systems
+Supervision,hosting institution
+,information technology systems
+,infrastructure
+,instrumentation
+,intellectual property
+,IT hardware systems design and implementation
+Outreach,lay synthesis of research output
+,marketing
+Development,metadata application
+,
+,networking facilitation
+,original draft preparation
+Documentation,outreach materials development
+Funding,owner
+,participant recruitment
+,policy development
+Development,preservation
+,principal investigator
+,producer
+,program administration
+,project management
+Testing,project member
+Documentation,protocol creation
+,publisher
+,registration agency
+,registration authority
+,regulatory administration
+,related person
+,relationship
+,requirements analysis
+,research conceptualization
+,resources
+,rights holder
+,Rights Management
+,software architecture
+,software design
+,software documentation
+,software engineering
+,software systems
+,software testing
+,sponsor
+Conceptualisation,standard operating procedure development
+,standards development
+Development,statistical analysis
+,study design
+,supervisory
+Conceptualisation,survey and questionnaire
+,system administrator
+,systems administration
+,team management
+,technical writing
+,technician
+,technique development
+Outreach,translator
+,user
+,validation
+,website development
+,website maintenance
+,work package leader

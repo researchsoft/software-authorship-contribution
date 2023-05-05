@@ -30,7 +30,16 @@ The new guidelines will define:
 This activity focuses on authorship of software (“the software itself”). It does not discuss specifics of authorship for related outputs (software papers, papers about software, etc.).
 -->
 
-## Software authorship
+Contents:
+
+- [Roles in Software](#roles)
+- [Software authorship](#authorship)
+- [Guidelines for software projects](#guidelines)
+- [How to get involved in SORTÆD?](#get-involved)
+
+![Flow of resource contributions](flow.png){width=90%}
+
+## Software authorship {#authorship}
 
 Developing research software is a dynamic, agile and collaborative effort,
 involving a spectrum of contributions. Examples of contributions include project
@@ -45,13 +54,86 @@ contributors may transition to and from author status as the software evolves.
 By defining authors and non-author contributors, appropriate credit and citation
 and be given when using the software.
 
-## Roles in software
+### Who is an author?
 
-## Guidelines for software projects
+SORTÆD recommends that software authorship be based on substantial contributions to:
+
+1. the conceptualization of the software; OR
+2. the source code, documentation and metadata, test code, setup or build configuration of the software; OR
+3. maintaining the software or safeguarding the continued existence or sustainability of the software project.<!-- E.g., project manager, governance, community manager -->
+
+In contrast to authorship of textual research outputs: 
+
+- software authorship is NOT based on approval of software versions to be released or published;
+- software authorship is NOT based on agreeing to be accountable for contributions to the software beyond legal accountability, in ensuring that questions related to the quality and integrity of the software are appropriately investigated and resolved.
+
+All those designated as authors should meet one of the three criteria for authorship, 
+and all who meet one of the three criteria should be identified as authors.
+Those who do not meet one of the four criteria due to the insubstantiality of their contribution
+should be acknowledged as contributors (see below).
+These authorship criteria are intended to reserve the status of authorship for those who deserve credit.
+
+The responsibility for identifying who meets the authorship criteria lies is part of the governance of the software project, which may choose to recognize authorship beyond the SORTÆD criteria.
+
+If agreement cannot be reached about who qualifies for authorship, 
+the legal owners of the software should be asked to investigate.     
+
+### Non-author contributors
+
+Contributions to software can be made in different roles.
+Depending on the type of the contribution, contributors can be eligible for authorship if the contribution is substantial (see above).
+
+Contributors who do not meet the above criteria for authorship should not be listed as authors, 
+but they should be acknowledged. 
+The roles that constitute contributorship are detailed in the following. 
+
+### Software contributor role taxonomy
+
+Supervision
+ : _Coordinates the project effort, possibly across organizational boundaries_
+ : Examples: Coordinator, project manager, advisor, team leader
+
+ Resources
+ : _Provision and maintenance of resources used and exposed by the software project, like computational infrastructure and cloud systems_
+ : Examples: System administrator, cloud manager
+
+ Funding
+ : _Acquisition or management of funding for effort and events that sustain the software_
+ : Examples: Principal Investigator, work package leader
+
+ Outreach
+ : _Communication with end-users and stakeholders_
+ : Examples: Training, community manager, user support
+
+ Development
+ : _Writing of the backend and frontend code as well as managing dependencies, making the software ready for release_
+ : Examples: Programmer, maintainer, UX designer, release manager
+
+ Data curation
+ : _Integration of data in the software and ensures metadata is annotated and available_
+ : Examples: Data provider, statician, data manager
+
+ Testing
+ : _Unit test, usability, integration tests, release test_
+ : Examples: Reviewer, reporting user
+
+ Documentation
+ : _Writing of all documentation related to the software, including user guidelines, roadmapping_
+ : Examples: Technical writer, metadata curator
+
+ Conceptualisation
+ : _Formulation of the idea and goals of the software, design of main features and functionalities_
+ : Examples: Principal Investigator, Architect, graphical designer, release manager, requirement gathering
+
+### Roles in software {#roles}
+
+![Roles in Software](roles.png){width=90%}
+
+## Guidelines for software projects {#guidelines}
 <!--
 This section provides guidance for software projects looking to understand how to acknowledge authorship and contributors to their project
 -->
-### What do you need to do as a project?
+### What do you need to do as a project? {#need}
 
 As a research software project, it's useful to be clear and transparent who the authors of your software are, acknowledge contributors, and describe how decisions around authorship are made. 
 
@@ -61,24 +143,42 @@ As a research software project, it's useful to be clear and transparent who the 
 
 An appropriate place to put this information is in a contribution section in your README or a separate CONTRIBUTING file. There are good existing guidelines for how to structure a project README and CONTRIBUTING file.
 
+### Frequently Asked Questions {#faq}
 
+1. _What is the difference between a contributor and an author?_ A **contributor** is someone who has made a useful contribution to the project, through one or more of the different [contributor roles](#contributorroles). An **author** is someone who has made a more significant contribution to the project, as defined by the [authorship criteria](#authorshipcriteria).
+2. _When does a contributor become an author?_ A contributor becomes an author, when the people involved in the project governance have decided they meet the criteria.
+3. _When does an author stop being an author?_ Generally, authorship is removed when the persons contributions to the current version of the software project are no longer meeting the criteria for authhorship. This may be because the code they have written is no longer included in the release.
+4. _Who should I include as an author?_ This will be different for each project, however we recommend the people involved in the governance of the project use the [authorship criteria](#authorshipcriteria) and comes up with a set of questions that can be used to assess the significance of someone's contributions. These may not just be contributions of lines of code, but the many other [roles](#contributorroles) that are important in the development of research software.
 
-### Frequently Asked Questions
+### Examples of use {#examples}
 
-### Examples of use
+To be added.
 
-## How to get involved in SORTÆD?
+### References {#references}
 
-### How to contribute?
+Some useful references:
+
+- [CReDIT](https://onlinelibrary.wiley.com/doi/epdf/10.1002/leap.1210)
+- [AllContributors](https://allcontributors.org/)
+- [Contributor Roles Crosswalk](https://zenodo.org/record/4767798)
+- [R citation roles](https://journal.r-project.org/articles/RJ-2012-009/). 
+- [MARC relator codes](https://www.loc.gov/marc/relators/relaterm.html)
+- [ROpenSci guidance](https://devguide.ropensci.org/collaboration.html?q=ctb#attributions)
+- [SCoRO ontology](https://sparontologies.github.io/scoro/current/scoro.html)
+- [Policy on acknowledging the contribution of LLM/AI](https://poldrack.github.io/talks-AIAssistedCoding/talk/talk.html#/title-slide) also [this](https://poldrack.github.io/talks-AIAssistedCoding/talk/talk.html#/section-10) and [this](https://psyarxiv.com/b58ex)
+
+## How to get involved in SORTÆD? {#get-involved}
+
+### How to contribute? {#contribute}
 
 If you would like to contribute to this project, please [open an issue](https://github.com/sdruskat/software-authorship/issues) and get in touch with us.
 
-### How to become an author on this project? / How to stop being an author on this project?
+### How to become an author on this project? {#author}
 
-To become an author on this project, please open an issue with a brief description of what you want to work on and we can discuss it. 
+To become an author on this project, please open an issue with a brief description of what you want to work on and we can discuss it.
 
-To stop being an author on this project, ...
+### How to cite this project? {#cite}
 
-### How to cite this project?
+Use the metadata for this DOI to cite this project: 
 
-Use ... to cite this project
+Leem, Deborah, Turon, Gemma, Gruson, Hugo, Chue Hong, Neil, Kaur Bhogal, Saranjeet, Lo, Sherman, Druskat, Stephan, & Soiland-Reyes, Stian. (2023). SORTÆD: Software Role Taxonomy and Authorship Definition (0.1). Zenodo. https://doi.org/10.5281/zenodo.7896456.
