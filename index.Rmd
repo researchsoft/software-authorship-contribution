@@ -41,6 +41,19 @@ Contents:
 
 ## Software authorship {#authorship}
 
+Developing research software is a dynamic, agile and collaborative effort,
+involving a spectrum of contributions. Examples of contributions include project
+management, software engineering and reporting bugs. Each of these contributions
+has varying impacts on the software.
+
+The objective of Software Authorship is to give a set of definitions, guidelines
+and criteria to distinguish authors from non-author contributors of the
+software. Because of the dynamic nature of software development and maintenance,
+contributors may transition to and from author status as the software evolves.
+
+By defining authors and non-author contributors, appropriate credit and citation
+and be given when using the software.
+
 ### Who is an author?
 
 SORTÆD recommends that software authorship be based on substantial contributions to:
