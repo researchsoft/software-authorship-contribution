@@ -181,4 +181,4 @@ To become an author on this project, please open an issue with a brief descripti
 
 Use the metadata for this DOI to cite this project: 
 
-Leem, Deborah, Turon, Gemma, Gruson, Hugo, Chue Hong, Neil, Kaur Bhogal, Saranjeet, Lo, Sherman, Druskat, Stephan, & Soiland-Reyes, Stian. (2023). SORTÆD: Software Role Taxonomy and Authorship Definition (0.1). Zenodo. https://doi.org/10.5281/zenodo.7896456.
+Leem, Deborah, Turon, Gemma, Gruson, Hugo, Chue Hong, Neil, Kaur Bhogal, Saranjeet, Lo, Sherman, Druskat, Stephan, & Soiland-Reyes, Stian. (2023). SORTÆD: Software Role Taxonomy and Authorship Definition (0.1). Zenodo. [doi:10.5281/zenodo.7896456](https://doi.org/10.5281/zenodo.7896456).
