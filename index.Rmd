@@ -161,7 +161,7 @@ Some useful references:
 - [CReDIT](https://onlinelibrary.wiley.com/doi/epdf/10.1002/leap.1210)
 - [AllContributors](https://allcontributors.org/)
 - [Contributor Roles Crosswalk](https://zenodo.org/record/4767798)
-- [R citation roles](https://journal.r-project.org/articles/RJ-2012-009/). 
+- [R citation roles](https://journal.r-project.org/articles/RJ-2012-009/)
 - [MARC relator codes](https://www.loc.gov/marc/relators/relaterm.html)
 - [ROpenSci guidance](https://devguide.ropensci.org/collaboration.html?q=ctb#attributions)
 - [SCoRO ontology](https://sparontologies.github.io/scoro/current/scoro.html)
