@@ -49,8 +49,9 @@ The progress of this work is tracked in a dedicated [GitHub project in this repo
 Outlined briefly, we will take the definition through a three-step process:
 
 1. Solicit reviews and contributions from invited expert reviewers.
-2. Run a consultation with the larger community to solicit further reviews and contributions.
-3. Prepare and publish the revised version of the definition.
+2. Prepare and publish a revised version of the definition.
+3. Run a consultation with the larger community to solicit further reviews and contributions.
+4. Prepare and publish another revised version of the definition.
 
 ### Software contribution roles taxonomy
 
