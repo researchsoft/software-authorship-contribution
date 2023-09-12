@@ -25,12 +25,57 @@ The new guidelines will define:
 
 This activity focuses on authorship of software (“the software itself”). It does not discuss specifics of authorship for related outputs (software papers, papers about software, etc.).
 
-## Outputs
+## Initial outputs
 
 1. A draft for a definition of authorship for research software. This draft will be proposed to the community to refine it and gain support from relevant stakeholders (such as [FORCE11](https://force11.org/) and [ReSA](https://www.researchsoft.org/)).
 2. A proposal for a list of authorship and contribution roles for software, and their relationship to existing roles taxonomies and lists. This also includes more detailed definitions of the single roles, including examples.
 
-### Authors
+## Ongoing work
+
+We are in the process of forming a [ReSA](https://www.researchsoft.org/) Task Force to continue the work started during the hack event.
+
+The Task Force will work to involve the community in reviewing and contributing to the definition of software authorship and the taxonomy of software contribution roles,
+as detailed in [the Roadmaps](#roadmaps) and [contribution](#when-and-how-to-contribute-to-this-work) sections below.
+
+## Roadmaps
+
+We consider both outputs of this work - a definition of software authorship, a taxonomy of software contribution roles - as *open, living documents*.
+Contributions from the community are welcome during the lifecycle of the Task Force.
+
+### Software authorship definition
+
+The progress of this work is tracked in a dedicated [GitHub project in this repository](https://github.com/users/sdruskat/projects/7/views/1).
+
+Outlined briefly, we will take the definition through a three-step process:
+
+1. Solicit reviews and contributions from invited expert reviewers.
+2. Prepare and publish a revised version of the definition.
+3. Run a consultation with the larger community to solicit further reviews and contributions.
+4. Prepare and publish another revised version of the definition.
+
+### Software contribution roles taxonomy
+
+The progress of this work is tracked in a dedicated [GitHub project in this repository](https://github.com/users/sdruskat/projects/8/views/1).
+
+Outlined briefly, we will take the definition through a two-step process:
+
+1. Solicit contributions from the larger community for additional existing taxonomies to consider, compare and crosswalk.
+2. Prepare and publish the revised version of the taxonomy.
+
+## When and how to contribute to this work?
+
+We will publish invitations for the community to contribute to this work at given points in time outlined in the [Roadmaps](#roadmaps).
+Specifically, we are very interested in your contributions if you have experience in 
+research (software) policy, 
+open source communities or contributions,
+contribution taxonomies.
+
+In the meantime, please [create an issue](https://github.com/sdruskat/software-authorship/issues) if you have ideas to contribute to this repository.
+However, please be aware that we may only be able to discuss your ideas in depth at a specific point in time as outlined in the [Roadmaps](#roadmaps).
+
+### Contributors
+
+The contributors to the Collaborations Workshop 2023 Hack Day work were:
 
 - Deborah Leem, University College London, https://orcid.org/0000-0002-5836-0899
 - Gemma Turon, Ersilia Open Source Initiative, https://orcid.org/0000-0001-6798-0275
@@ -40,14 +85,7 @@ This activity focuses on authorship of software (“the software itself”). It 
 - Sherman Lo, Queen Mary, University of London, https://orcid.org/0000-0001-8118-6879
 - Stephan Druskat, German Aerospace Center (DLR), https://orcid.org/0000-0003-4925-7248
 - Stian Soiland-Reyes, University of Manchester, https://orcid.org/0000-0001-9842-9718
-
-### Contributors
-
-We acknowledge the contributions of Carlos Martinez.
-
-## How to contribute to this repository?
-
-Please [create an issue](https://github.com/sdruskat/software-authorship/issues) if you have ideas to contribute to this repository.
+- Carlos Martinez-Ortiz, Netherlands eScience Center, https://orcid.org/0000-0001-5565-7577
 
 ## Resources
 
