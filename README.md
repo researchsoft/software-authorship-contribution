@@ -73,9 +73,9 @@ contribution taxonomies.
 In the meantime, please [create an issue](https://github.com/sdruskat/software-authorship/issues) if you have ideas to contribute to this repository.
 However, please be aware that we may only be able to discuss your ideas in depth at a specific point in time as outlined in the [Roadmaps](#roadmaps).
 
-### Original authors & contributors
+### Contributors
 
-The original authors of the Collaborations Workshop 2023 Hack Day were:
+The contributors to the Collaborations Workshop 2023 Hack Day work were:
 
 - Deborah Leem, University College London, https://orcid.org/0000-0002-5836-0899
 - Gemma Turon, Ersilia Open Source Initiative, https://orcid.org/0000-0001-6798-0275
@@ -85,8 +85,7 @@ The original authors of the Collaborations Workshop 2023 Hack Day were:
 - Sherman Lo, Queen Mary, University of London, https://orcid.org/0000-0001-8118-6879
 - Stephan Druskat, German Aerospace Center (DLR), https://orcid.org/0000-0003-4925-7248
 - Stian Soiland-Reyes, University of Manchester, https://orcid.org/0000-0001-9842-9718
-
-We also acknowledge the contributions of Carlos Martinez.
+- Carlos Martinez-Ortiz, Netherlands eScience Center, https://orcid.org/0000-0001-5565-7577
 
 ## Resources
 
