@@ -35,12 +35,12 @@ This activity focuses on authorship of software (“the software itself”). It 
 We are in the process of forming a [ReSA](https://www.researchsoft.org/) Task Force to continue the work started during the hack event.
 
 The Task Force will work to involve the community in reviewing and contributing to the definition of software authorship and the taxonomy of software contribution roles,
-as detailed in [the Roadmaps](#roadmaps) and [cnotribution](#when-and-how-to-contribute-to-this-work) sections below.
+as detailed in [the Roadmaps](#roadmaps) and [contribution](#when-and-how-to-contribute-to-this-work) sections below.
 
 ## Roadmaps
 
-We consider both outputs of this work - a definition of software authorship, a taxnoomy of software contribution roles - as *open, living documents*.
-Contributions from the community will be welcome after the initial Task Force completes its work.
+We consider both outputs of this work - a definition of software authorship, a taxonomy of software contribution roles - as *open, living documents*.
+Contributions from the community are welcome during the lifecycle of the Task Force.
 
 ### Software authorship definition
 
